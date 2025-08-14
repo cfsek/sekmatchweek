@@ -18,7 +18,7 @@ body {
     font-optical-sizing: auto;
     font-weight: 300;
     font-style: normal;
-    height: 100vh;
+    height: 100dvh;
     display: grid;
     grid-template-rows: 1fr 1fr 1fr;
     overflow-y: hidden;
@@ -189,3 +189,4 @@ h1 {
     }
 
 }
+
