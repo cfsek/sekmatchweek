@@ -19,7 +19,7 @@ body {
     font-style: normal;
     height: 100dvh;
     display: grid;
-    grid-template-rows: 1fr 1fr;
+    grid-template-rows: auto 1fr;
 }
 
 header {
@@ -28,7 +28,7 @@ header {
 
 h1 {
     font-weight: 400;
-    padding: 2rem;
+    padding: 1rem 0 1rem 0;
     text-align: center;
 }
 
@@ -65,7 +65,6 @@ h1 {
     place-content: center;
     place-items: center;
     max-width: 80%;
-    padding-bottom: 1rem;
 }
 
 #buttons_div a {
@@ -187,7 +186,3 @@ h1 {
     }
 
 }
-
-
-
-
