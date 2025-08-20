@@ -21,7 +21,6 @@ body {
     height: 100dvh;
     display: grid;
     grid-template-rows: 1fr 1fr 1fr;
-    overflow-y: hidden;
 }
 
 header {
@@ -189,4 +188,5 @@ h1 {
     }
 
 }
+
 
