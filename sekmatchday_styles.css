@@ -41,7 +41,7 @@ h1 {
 #content {
     height: 100%;
     display: grid;
-    grid-gap: 2rem;
+    grid-gap: 1rem;
     grid-template-rows: auto auto;
     justify-items: center;
     align-items: center;
@@ -187,6 +187,7 @@ h1 {
     }
 
 }
+
 
 
 
