@@ -33,7 +33,7 @@ const matchDayLogos = {
 const favicon = document.getElementById('fav');
 
 const matchDayFavicons = {
-    'cfsek': 'CFSEK new favicon.png',
+    'cfsek': 'CFSEK2026.png',
     'cacf': 'cacf.png',
     'fsacf': 'fsacf.png',
     'gacf': 'gacf.png'
