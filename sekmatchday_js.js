@@ -1,7 +1,7 @@
 const header = document.querySelector('header');
 
 const secondaryColors = {
-    'cfsek': '#74c69c',
+    'cfsek': '#be6028',
     'cacf': '#cc2027',
     'fsacf': '#019f16',
     'gacf': '#8daa31'
